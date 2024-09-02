@@ -1,7 +1,11 @@
+data/PPMI_clinical/*
+data/PPMI_remote/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+
 
 # C extensions
 *.so

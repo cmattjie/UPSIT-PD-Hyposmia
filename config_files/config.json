@@ -1,0 +1,26 @@
+{
+  "experiments": [
+    {
+      "name": "Correct",
+      "preprocessing": {
+        "cutoff": "2023",
+        "methods": [
+          "MinMaxScaler"
+        ],
+        "variables": "correct",
+        "log": false
+      }
+    },
+    {
+      "name": "Reponse",
+      "preprocessing": {
+        "cutoff": "2023",
+        "methods": [
+          "MinMaxScaler"
+        ],
+        "variables": "response",
+        "log": false
+      }
+    }
+  ]
+}
