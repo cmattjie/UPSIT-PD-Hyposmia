@@ -3,6 +3,8 @@ data/PPMI_remote/*
 data/processed/*
 results/*
 images/*
+data/merged_ppmi_clinical.csv
+data/merged_ppmi_remote.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
