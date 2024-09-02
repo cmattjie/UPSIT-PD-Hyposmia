@@ -1,5 +1,8 @@
 data/PPMI_clinical/*
 data/PPMI_remote/*
+data/processed/*
+results/*
+images/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
